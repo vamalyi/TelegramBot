@@ -1,0 +1,3 @@
+
+LOG_ON = True
+TOKEN = '350394254:AAG3GejQKbTe4PM19T8Qt8Bhjel7_eju-10'
